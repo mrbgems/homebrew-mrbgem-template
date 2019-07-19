@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class HomebrewMrbgemTemplate < Formula
+class MrbgemTemplate < Formula
   desc "A mrbgem template generater"
   homepage "https://github.com/matsumotory/mruby-mrbgem-template"
   head "https://github.com/matsumotory/mruby-mrbgem-template.git"
