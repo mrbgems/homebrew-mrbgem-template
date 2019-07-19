@@ -5,8 +5,9 @@ class MrbgemTemplate < Formula
   desc "A mrbgem template generater"
   homepage "https://github.com/matsumotory/mruby-mrbgem-template"
   head "https://github.com/matsumotory/mruby-mrbgem-template.git"
-  url "https://github.com/mrbgems/homebrew-mrbgem-template/releases/download/0.1.0/mrbgem-template-0.1.0.tar.gz"
-  sha256 "aa0dec44df5ca6375ef6274e9309b618458fd8bdb338468fd2ab2607660c4f94"
+  # TODO point to origin
+  url "https://github.com/udzura/mruby-mrbgem-template/archive/v0.1.0.tar.gz"
+  sha256 "3b13e47f007c1940b9144cac061b434e79e9863c2a88f563aab47ad567442d4c"
   # depends_on "cmake" => :build
 
   def install
