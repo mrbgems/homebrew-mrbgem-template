@@ -10,3 +10,9 @@ Please do this:
 $ brew tap mrbgems/mrbgem-template
 $ brew install mrbgem-template
 ```
+
+Using HEAD:
+
+```
+$ brew install mrbgem-template --HEAD      
+```
