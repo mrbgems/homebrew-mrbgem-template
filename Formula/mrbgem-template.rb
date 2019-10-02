@@ -6,8 +6,8 @@ class MrbgemTemplate < Formula
   homepage "https://github.com/matsumotory/mruby-mrbgem-template"
   head "https://github.com/matsumotory/mruby-mrbgem-template.git"
   # TODO point to origin
-  url "https://github.com/matsumotory/mruby-mrbgem-template/archive/v0.1.0.tar.gz"
-  sha256 "d128e339bb6bab821062935b192a5724166c6aeecee93f1a1bebf2ca8a2d5975"
+  url "https://github.com/matsumotory/mruby-mrbgem-template/archive/v0.2.0.tar.gz"
+  sha256 "caeede8be5cadbaa95352b995bbcb5bf84a94a752560437f2dd7315a3c7a0aa5"
   # depends_on "cmake" => :build
 
   def install
