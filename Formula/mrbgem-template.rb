@@ -16,6 +16,11 @@ class MrbgemTemplate < Formula
   end
   
   patch do
+    url "https://github.com/matsumotory/mruby-mrbgem-template/commit/d86552189456c11d2fd09eed8d2be502fb5497a5.patch"
+    sha256 "b2bdd10b1b4ffeff59d06ee1033fb1d82aab9404854bb1a56afff72376b4f11c"
+  end
+  
+  patch do
     url "https://github.com/matsumotory/mruby-mrbgem-template/commit/ed259f30a7c2fac2d15b136b8a2a974f5b8d4fa0.patch"
     sha256 "fab4854ae22d25c90555fa20aa9f4274d354e8760b1791ab144b3ed4ecac1be2"
   end
